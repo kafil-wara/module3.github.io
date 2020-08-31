@@ -1,0 +1,40 @@
+body {
+	padding-top: 70px;
+}
+
+#chicken {
+	height: 700px;
+	background-color: lightpink;
+	padding-top: 30px;
+}
+
+#beef {
+	height: 700px;
+	background-color: cyan;
+	padding-top: 30px;
+}
+
+#sushi {
+	height: 700px;
+	background-color: fuchsia;
+	padding-top: 30px;
+}
+#nav-list {
+	margin-top: 20px;
+}
+
+#nav-list a {
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+
+#nav-list a span {
+	font-size: 1.5em;
+}
+
+#top {
+	padding-top: 70px;
+}
